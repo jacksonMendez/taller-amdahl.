@@ -1,0 +1,10 @@
+# Binarios y ejecutables compilados
+*.exe
+*.out
+*.o
+bin/
+
+# Configuración de entornos y editores
+.vscode/
+Thumbs.db
+.DS_Store
